@@ -1,2 +1,3 @@
-# typescript-state-using-zustand
-Typescript State using Zustand
+# Typescript State using Zustand
+
+Typescript with React state management, To-Do list that implement Zustand.
